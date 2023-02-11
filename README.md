@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <div align="center"> Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> , I'm Aditya </div>  
+# <div style="display: flex; align-items: center; justify-content: space-between"> <div> Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> , I'm Aditya </div> <div> ![eye](https://komarev.com/ghpvc/?username=thorataditya14) </div> </div>
 
 Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from India. I build efficient web apps and have experience in deploying and managing scalable systems on Cloud. I’m currently learning various DevOps tools. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityathorat/)
 
@@ -70,9 +70,9 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorataditya14&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thorataditya14&theme=default&hide_border=true) -->
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies -->
 
-![](https://github-profile-trophy.vercel.app/?username=thorataditya14&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=thorataditya14&theme=discord&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### 🌐 Socials
 
@@ -85,6 +85,7 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thorataditya14)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thorataditya14)
 
-</div>  
-    <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" height="20px"/>
+</div>
+
+
 </div>  
