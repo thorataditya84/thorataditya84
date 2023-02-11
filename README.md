@@ -21,11 +21,15 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 <div align="center">
 
-<img align="center" height='225' width='400' src='./assets/gifs/typing.gif'/>
+<div><img align="center" height='225' width='400' src='./assets/gifs/typing.gif'/></div>
 
 <br>
 
+<div>
+
 ![eye](https://komarev.com/ghpvc/?username=thorataditya14)
+
+</div>
 
 ### 💻 Tools and Technologies
 
