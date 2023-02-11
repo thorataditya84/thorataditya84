@@ -21,11 +21,12 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 <div align="center">
 
-<img align="center" height='270' width='480' src='./assets/gifs/typing.gif'/>
+<img align="center" height='225' width='400' src='./assets/gifs/typing.gif'/>
 
 ### 💻 Tools and Technologies
 
 <!-- Development -->
+<!-- Databases -->
 <a href="https://reactjs.org/" target="_blank"><img src="././assets/images/skills/development/reactjs.svg" alt="React" height="50px" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="././assets/images/skills/development/nextjs.svg" alt="NextJS" height="50px" /></a>
 <a href="https://redux.js.org/" target="_blank"><img src="././assets/images/skills/development/redux.svg" alt="Redux" height="50px" /></a>
@@ -36,6 +37,8 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 <a href="https://www.djangoproject.com/" target="_blank"><img src="././assets/images/skills/development/django.svg" alt="Django" height="50px" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="././assets/images/skills/development/git.svg" alt="Git" height="50px" /></a>
 <a href="https://www.postman.com/" target="_blank"><img src="././assets/images/skills/development/postman.svg" alt="Postman" height="50px" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="././assets/images/skills/databases/mysql.svg" alt="MySQL" height="50px" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="././assets/images/skills/databases/mongodb.svg" alt="MongoDB" height="50px" /></a>
 
 <!-- Cloud/DevOps -->
 <a href="https://aws.amazon.com/" target="_blank"><img src="././assets/images/skills/cloud/aws.svg" alt="AWS" height="50px" /></a>
@@ -49,15 +52,10 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 <a href="https://www.vagrantup.com/" target="_blank"><img src="././assets/images/skills/cloud/vagrant.svg" alt="Vagrant" height="50px" /></a>
 
 <!-- Machine Learning -->
-<!-- Databases -->
+<!-- Programming Languages -->
 <a href="https://pandas.pydata.org/" target="_blank"><img src="././assets/images/skills/machine-learning/pandas.svg" alt="Pandas" height="50px" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="././assets/images/skills/machine-learning/scikit-learn.svg" alt="Scikit Learn" height="50px" /></a>
 <a href="https://numpy.org/" target="_blank"><img src="././assets/images/skills/machine-learning/numpy.svg" alt="NumPy" height="50px" /></a>
-
-<a href="https://www.mysql.com/" target="_blank"><img src="././assets/images/skills/databases/mysql.svg" alt="MySQL" height="50px" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="././assets/images/skills/databases/mongodb.svg" alt="MongoDB" height="50px" /></a>
-
-<!-- Languages -->
 <a href="https://isocpp.org/" target="_blank"><img src="././assets/images/skills/programming-languages/cpp.svg" alt="CPP" height="50px" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="././assets/images/skills/programming-languages/python.svg" alt="Python" height="50px" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img src="././assets/images/skills/programming-languages/javascript.svg" alt="JavaScript" height="50px" /></a>
