@@ -38,7 +38,7 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 20px" src="././assets/images/skills/development/postman.svg" alt="Postman" height="45px" /></a>
 
 <!-- Cloud/DevOps -->
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="././assets/images/skills/cloud/aws.svg" alt="AWS" height="45px" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 200px" src="././assets/images/skills/cloud/aws.svg" alt="AWS" height="45px" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 20px" src="././assets/images/skills/cloud/google-cloud.svg" alt="GCP" height="45px" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="././assets/images/skills/cloud/docker.svg" alt="Docker" height="45px" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 20px" src="././assets/images/skills/cloud/kubernetes.svg" alt="Kubernetes" height="45px" /></a>
