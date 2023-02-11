@@ -31,7 +31,7 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 </div>
 
-### 💻 Tools and Technologies
+## 💻 Tools and Technologies
 
 <!-- Development -->
 <!-- Databases -->
@@ -72,17 +72,17 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 <br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=thorataditya14&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorataditya14&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thorataditya14&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorataditya14&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thorataditya14&theme=default&hide_border=true) -->
 
-<!-- ### 🏆 GitHub Trophies -->
+<!-- ## 🏆 GitHub Trophies -->
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=thorataditya14&theme=discord&no-frame=false&no-bg=true&margin-w=4) -->
 
-### 🌐 Socials
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityathorat)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16890496)
