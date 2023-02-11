@@ -56,14 +56,14 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 <a href="https://www.jenkins.io/" target="_blank"><img src="././assets/images/skills/cloud/jenkins.svg" alt="Jenkins" height="50px" /></a>
 <a href="https://www.ansible.com/" target="_blank"><img src="././assets/images/skills/cloud/ansible.svg" alt="Ansible" height="50px" /></a>
 <a href="https://www.terraform.io/" target="_blank"><img src="././assets/images/skills/cloud/terraform.svg" alt="Terraform" height="50px" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="././assets/images/skills/cloud/linux.svg" alt="Linux" height="50px" /></a>
 <a href="https://www.vagrantup.com/" target="_blank"><img src="././assets/images/skills/cloud/vagrant.svg" alt="Vagrant" height="50px" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="././assets/images/skills/cloud/linux.svg" alt="Linux" height="50px" /></a>
 
 <!-- Machine Learning -->
 <!-- Programming Languages -->
+<a href="https://numpy.org/" target="_blank"><img src="././assets/images/skills/machine-learning/numpy.svg" alt="NumPy" height="50px" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="././assets/images/skills/machine-learning/pandas.svg" alt="Pandas" height="50px" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="././assets/images/skills/machine-learning/scikit-learn.svg" alt="Scikit Learn" height="50px" /></a>
-<a href="https://numpy.org/" target="_blank"><img src="././assets/images/skills/machine-learning/numpy.svg" alt="NumPy" height="50px" /></a>
 <a href="https://isocpp.org/" target="_blank"><img src="././assets/images/skills/programming-languages/cpp.svg" alt="CPP" height="50px" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="././assets/images/skills/programming-languages/python.svg" alt="Python" height="50px" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img src="././assets/images/skills/programming-languages/javascript.svg" alt="JavaScript" height="50px" /></a>
@@ -74,8 +74,8 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=thorataditya14&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorataditya14&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thorataditya14&include_all_commits=true&count_private=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorataditya14&include_all_commits=true&count_private=true&layout=compact&hide_border=true)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thorataditya14&theme=default&hide_border=true) -->
 
 <!-- ## 🏆 GitHub Trophies -->
