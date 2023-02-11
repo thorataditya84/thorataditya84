@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <div style="display: flex; align-items: center; justify-content: space-between"> <div> Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> , I'm Aditya </div> <div> ![eye](https://komarev.com/ghpvc/?username=thorataditya14) </div> </div>
+# <div align="center"> Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> , I'm Aditya </div>
 
 Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from India. I build efficient web apps and have experience in deploying and managing scalable systems on Cloud. I’m currently learning various DevOps tools. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityathorat/)
 
 <div align="center">
 
 <img align="center" height='225' width='400' src='./assets/gifs/typing.gif'/>
+
+<br>
+
+![eye](https://komarev.com/ghpvc/?username=thorataditya14)
 
 ### 💻 Tools and Technologies
 
