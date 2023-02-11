@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-    img {
-        margin: 5px;
-        height: 5px;
-    }
-</style>
-
 # <div align="center"> Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> , I'm Aditya </div>  
 
 Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from India. I build efficient web apps and have experience in deploying and managing scalable systems on Cloud. I’m currently learning various DevOps tools. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityathorat/)
@@ -33,42 +26,42 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 ### 💻 Tools and Technologies
 
 <!-- Development -->
-<a href="https://reactjs.org/" target="_blank"><img src="././assets/images/skills/development/reactjs.svg" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="././assets/images/skills/development/nextjs.svg" alt="NextJS" /></a>
-<a href="https://redux.js.org/" target="_blank"><img src="././assets/images/skills/development/redux.svg" alt="Redux" /></a>
-<a href="https://mui.com/" target="_blank"><img src="././assets/images/skills/development/materialui.svg" alt="MaterialUI" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="././assets/images/skills/development/sass.svg" alt="Sass" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="././assets/images/skills/development/nodejs.svg" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="././assets/images/skills/development/expressjs.svg" alt="ExpressJS" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="././assets/images/skills/development/django.svg" alt="Django" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="././assets/images/skills/development/git.svg" alt="Git" /></a>
-<a href="https://www.postman.com/" target="_blank"><img src="././assets/images/skills/development/postman.svg" alt="Postman" /></a>
+<a href="https://reactjs.org/" target="_blank"><img src="././assets/images/skills/development/reactjs.svg" stylee="margin: 5px; height: 40px" alt="React" /></a>
+<a href="https://nextjs.org/" target="_blank"><img src="././assets/images/skills/development/nextjs.svg" stylee="margin: 5px; height: 40px" alt="NextJS" /></a>
+<a href="https://redux.js.org/" target="_blank"><img src="././assets/images/skills/development/redux.svg" stylee="margin: 5px; height: 40px" alt="Redux" /></a>
+<a href="https://mui.com/" target="_blank"><img src="././assets/images/skills/development/materialui.svg" stylee="margin: 5px; height: 40px" alt="MaterialUI" /></a>
+<a href="https://sass-lang.com/" target="_blank"><img src="././assets/images/skills/development/sass.svg" stylee="margin: 5px; height: 40px" alt="Sass" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="././assets/images/skills/development/nodejs.svg" stylee="margin: 5px; height: 40px" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="././assets/images/skills/development/expressjs.svg" stylee="margin: 5px; height: 40px" alt="ExpressJS" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="././assets/images/skills/development/django.svg" stylee="margin: 5px; height: 40px" alt="Django" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="././assets/images/skills/development/git.svg" stylee="margin: 5px; height: 40px" alt="Git" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="././assets/images/skills/development/postman.svg" stylee="margin: 5px; height: 40px" alt="Postman" /></a>
 
 <!-- Cloud/DevOps -->
-<a href="https://aws.amazon.com/" target="_blank"><img src="././assets/images/skills/cloud/aws.svg" alt="AWS" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="././assets/images/skills/cloud/google-cloud.svg" alt="GCP" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="././assets/images/skills/cloud/docker.svg" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="././assets/images/skills/cloud/kubernetes.svg" alt="Kubernetes" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="././assets/images/skills/cloud/jenkins.svg" alt="Jenkins" /></a>
-<a href="https://www.ansible.com/" target="_blank"><img src="././assets/images/skills/cloud/ansible.svg" alt="Ansible" /></a>
-<a href="https://www.terraform.io/" target="_blank"><img src="././assets/images/skills/cloud/terraform.svg" alt="Terraform" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="././assets/images/skills/cloud/linux.svg" alt="Linux" /></a>
-<a href="https://www.vagrantup.com/" target="_blank"><img src="././assets/images/skills/cloud/vagrant.svg" alt="Vagrant" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="././assets/images/skills/cloud/aws.svg" stylee="margin: 5px; height: 40px" alt="AWS" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="././assets/images/skills/cloud/google-cloud.svg" stylee="margin: 5px; height: 40px" alt="GCP" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="././assets/images/skills/cloud/docker.svg" stylee="margin: 5px; height: 40px" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="././assets/images/skills/cloud/kubernetes.svg" stylee="margin: 5px; height: 40px" alt="Kubernetes" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="././assets/images/skills/cloud/jenkins.svg" stylee="margin: 5px; height: 40px" alt="Jenkins" /></a>
+<a href="https://www.ansible.com/" target="_blank"><img src="././assets/images/skills/cloud/ansible.svg" stylee="margin: 5px; height: 40px" alt="Ansible" /></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="././assets/images/skills/cloud/terraform.svg" stylee="margin: 5px; height: 40px" alt="Terraform" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="././assets/images/skills/cloud/linux.svg" stylee="margin: 5px; height: 40px" alt="Linux" /></a>
+<a href="https://www.vagrantup.com/" target="_blank"><img src="././assets/images/skills/cloud/vagrant.svg" stylee="margin: 5px; height: 40px" alt="Vagrant" /></a>
 
 <!-- Machine Learning -->
 <!-- Databases -->
-<a href="https://pandas.pydata.org/" target="_blank"><img src="././assets/images/skills/machine-learning/pandas.svg" alt="Pandas" /></a>
-<a href="https://scikit-learn.org/stable/" target="_blank"><img src="././assets/images/skills/machine-learning/scikit-learn.svg" alt="Scikit Learn" /></a>
-<a href="https://numpy.org/" target="_blank"><img src="././assets/images/skills/machine-learning/numpy.svg" alt="NumPy" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="././assets/images/skills/databases/mysql.svg" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="././assets/images/skills/databases/mongodb.svg" alt="MongoDB" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="././assets/images/skills/machine-learning/pandas.svg" stylee="margin: 5px; height: 40px" alt="Pandas" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="././assets/images/skills/machine-learning/scikit-learn.svg" stylee="margin: 5px; height: 40px" alt="Scikit Learn" /></a>
+<a href="https://numpy.org/" target="_blank"><img src="././assets/images/skills/machine-learning/numpy.svg" stylee="margin: 5px; height: 40px" alt="NumPy" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="././assets/images/skills/databases/mysql.svg" stylee="margin: 5px; height: 40px" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="././assets/images/skills/databases/mongodb.svg" stylee="margin: 5px; height: 40px" alt="MongoDB" /></a>
 
 <!-- Languages -->
-<a href="https://isocpp.org/" target="_blank"><img src="././assets/images/skills/programming-languages/cpp.svg" alt="CPP" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="././assets/images/skills/programming-languages/python.svg" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img src="././assets/images/skills/programming-languages/javascript.svg" alt="JavaScript" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="././assets/images/skills/programming-languages/java.svg" alt="Java" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="././assets/images/skills/cloud/bash.svg" alt="Bash" /></a>
+<a href="https://isocpp.org/" target="_blank"><img src="././assets/images/skills/programming-languages/cpp.svg" stylee="margin: 5px; height: 40px" alt="CPP" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="././assets/images/skills/programming-languages/python.svg" stylee="margin: 5px; height: 40px" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank"><img src="././assets/images/skills/programming-languages/javascript.svg" stylee="margin: 5px; height: 40px" alt="JavaScript" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="././assets/images/skills/programming-languages/java.svg" stylee="margin: 5px; height: 40px" alt="Java" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="././assets/images/skills/cloud/bash.svg" stylee="margin: 5px; height: 40px" alt="Bash" /></a>
 
 ### 📊 GitHub Stats
 
