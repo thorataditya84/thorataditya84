@@ -62,6 +62,8 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 <a href="https://www.java.com/" target="_blank"><img src="././assets/images/skills/programming-languages/java.svg" alt="Java" height="50px" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="././assets/images/skills/cloud/bash.svg" alt="Bash" height="50px" /></a>
 
+<br>
+
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=thorataditya14&theme=default&hide_border=true&include_all_commits=true&count_private=true)
@@ -74,7 +76,7 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 ### 🌐 Socials
 
-<div align="center" style="transform: scale(1.1)">
+<div align="center" style="transform: scale(1.1); display: flex; align-items: center; justify-content: space-evenly">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityathorat)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16890496)
