@@ -74,8 +74,8 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 ## 📊 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thorataditya14&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thorataditya14&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&layout=compact" align="center" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=thorataditya14&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thorataditya14&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&layout=compact" align="center" />
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thorataditya14&theme=default&hide_border=true) -->
 
