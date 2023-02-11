@@ -27,7 +27,7 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 <div>
 
-![eye](https://komarev.com/ghpvc/?username=thorataditya14)
+![eye](https://komarev.com/ghpvc/?username=thorataditya14&style=for-the-badge)
 
 </div>
 
