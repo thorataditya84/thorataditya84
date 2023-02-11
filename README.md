@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <style>
     img {
         margin: 5px;
-        height: 50px;
+        height: 5px;
     }
 </style>
 
