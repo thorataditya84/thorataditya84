@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**thorataditya14/thorataditya14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thorataditya84/thorataditya84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,7 +27,7 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 
 <div>
 
-![eye](https://komarev.com/ghpvc/?username=thorataditya14&style=for-the-badge)
+![eye](https://komarev.com/ghpvc/?username=thorataditya84&style=for-the-badge)
 
 </div>
 
@@ -77,19 +77,16 @@ Hi, I'm [Aditya Thorat](https://adityathorat.tech), a Full Stack Developer from 
 <img src="https://github-readme-stats.vercel.app/api?username=thorataditya84&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thorataditya84&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&layout=compact" align="center" />
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thorataditya14&theme=default&hide_border=true) -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=thorataditya84&theme=default&hide_border=true) -->
 
 <!-- ## 🏆 GitHub Trophies -->
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=thorataditya14&theme=discord&no-frame=false&no-bg=true&margin-w=4) -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=thorataditya84&theme=discord&no-frame=false&no-bg=true&margin-w=4) -->
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityathorat)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16890496)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thorataditya14)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adityat1704#2010)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thorataditya14)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thorataditya14)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thorataditya84)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thorataditya84)
 
 </div>  
